@@ -1,10 +1,4 @@
-public class Main {
-    public static void main(String[] args) {
-        MusaList array = new MusaList(5, 3, 1, 5);
-    }
-}
-
-class MusaList {
+public class MusaList {
     private int size;
     private int main[];
     private int special;
